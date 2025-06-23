@@ -1,0 +1,83 @@
+[
+    {
+        "title": "What does HTML stand for?",
+        "result_1": "Hyperlinks and Text Markup Language",
+        "result_2": "Home Tool Markup Language",
+        "result_3": "Hyper Text Markup Language",
+        "result_4": "Hotlinks Markup Language",
+        "right_answer": "Hyper Text Markup Language"
+    },
+    {
+        "title": "Who is making the Web standards?",
+        "result_1": "Google",
+        "result_2": "The World Wide Web Consortium",
+        "result_3": "Microsoft",
+        "result_4": "Mozilla",
+        "right_answer": "The World Wide Web Consortium"
+    },
+    {
+        "title": "Choose the correct HTML element for the largest heading:",
+        "result_1": "<head>",
+        "result_2": "<heading>",
+        "result_3": "<h1>",
+        "result_4": "<h6>",
+        "right_answer": "<h1>"
+    },
+    {
+        "title": "What is the correct HTML element for inserting a line break?",
+        "result_1": "<break>",
+        "result_2": "<lb>",
+        "result_3": "<br>",
+        "result_4": "<hr>",
+        "right_answer": "<br>"
+    },
+    {
+        "title": "What is the correct HTML for adding a background color?",
+        "result_1": "<body style='background-color:yellow;'>",
+        "result_2": "<background>yellow</background>",
+        "result_3": "<body bg='yellow'>",
+        "result_4": "<body background='yellow'>",
+        "right_answer": "<body style='background-color:yellow;'>"
+    },
+    {
+        "title": "Choose the correct HTML element to define important text",
+        "result_1": " <important>",
+        "result_2": " <strong>",
+        "result_3": " <b>",
+        "result_4": " <i>",
+        "right_answer": " <strong>"
+    },
+    {
+        "title": "Choose the correct HTML element to define emphasized text",
+        "result_1": " <italic>",
+        "result_2": " <i>",
+        "result_3": " <em>",
+        "result_4": " <br>",
+        "right_answer": " <em>"
+    },
+    {
+        "title": "What is the correct HTML for creating a hyperlink?",
+        "result_1": " <a url='http://www.w3schools.com'>W3Schools.com</a>",
+        "result_2": " <a>http://www.w3schools.com</a>",
+        "result_3": " <a href='http://www.w3schools.com'>W3Schools</a>",
+        "result_4": " &lt;a name='http://www.w3schools.com'&gt;W3Schools.com&lt;/a&gt;",
+        "right_answer": " <a href='http://www.w3schools.com'>W3Schools</a>"
+    },
+    {
+        "title": "Which character is used to indicate an end tag?",
+        "result_1": "  <",
+        "result_2": " /",
+        "result_3": "  ^",
+        "result_4": "  *",
+        "right_answer": " /"
+    },
+    {
+        "title": "Which of these elements are all <table> elements?",
+        "result_1": " <table><tr><tt>",
+        "result_2": " <thead><body><tr>",
+        "result_3": " <table><head><tfoot>",
+        "result_4": " <table><tr><td>",
+        "right_answer": " <table><tr><td>"
+    }
+
+]
